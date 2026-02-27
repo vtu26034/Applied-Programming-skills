@@ -14,8 +14,25 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
