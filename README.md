@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
+| [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
@@ -59,10 +60,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1603-design-parking-system) |
@@ -102,6 +105,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
