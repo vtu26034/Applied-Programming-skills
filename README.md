@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
@@ -56,9 +57,11 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
