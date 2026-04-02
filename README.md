@@ -15,6 +15,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Array
@@ -40,6 +41,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -65,6 +67,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
