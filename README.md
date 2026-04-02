@@ -16,12 +16,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -96,4 +99,16 @@
 | ------- |
 | [0100-same-tree](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
