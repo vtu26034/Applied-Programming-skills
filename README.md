@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -137,4 +139,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
