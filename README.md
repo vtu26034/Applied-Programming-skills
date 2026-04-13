@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 ## Design
