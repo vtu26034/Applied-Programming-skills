@@ -29,6 +29,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -140,4 +141,8 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
