@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
