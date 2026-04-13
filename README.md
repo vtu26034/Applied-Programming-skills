@@ -73,6 +73,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1603-design-parking-system) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/vtu26034/Applied-Programming-skills/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu26034/Applied-Programming-skills/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
